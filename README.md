@@ -42,4 +42,8 @@ You can find all the details in our [thesis](https://github.com/esra-polat/rPPG-
 ###### [6] S. Bobbia, R. Macwan, Y. Benezeth, A. Mansouri, J. Dubois, (2017), Unsupervised skin tissue segmentation for remote photoplethysmography, Pattern Recognition Letters 
 ###### [7] Stricker, R., Müller, S., Gross, H.-M. “Non-contact Video-based Pulse Rate Measurement on a Mobile Service Robot” in Proc. 23st IEEE Int. Symposium on Robot and Human Interactive Communication (Ro-Man 2014), Edinburgh, Scotland, UK, pp. 1056 - 1062, IEEE 2014
 ###### [8] Remote Photoplethysmography Using Nonlinear Mode Decomposition, Halil Demirezen, Cigdem Eroglu Erdem Marmara University Department of Computer Engineering, Goztepe, Istanbul, Turkey, pp. 1060– 1064, 2018.
+
+
+#### POSTER
             
+<img src="https://github.com/esra-polat/rPPG-heart-rate-estimation-deep-learning-method/blob/main/documents/img/poster.jpg">
