@@ -30,7 +30,7 @@ Supervised by Prof. Dr. Çiğdem EROĞLU ERDEM
 
 And this project was awarded the third best project. 
 You can find all the details in our [thesis](https://github.com/esra-polat/rPPG-heart-rate-estimation-deep-learning-method/blob/main/documents/Thesis.pdf "thesis").  
-<img src="https://github.com/esra-polat/rPPG-heart-rate-estimation-deep-learning-method/blob/main/documents/img/plaket.jpeg" width="800">
+<img src="https://github.com/esra-polat/rPPG-heart-rate-estimation-deep-learning-method/blob/main/documents/img/plaket.jpeg" width="1000">
 
 > You can go to the first phase of the project from this [link](https://github.com/esra-polat/rPPG-heart-rate-estimation-traditional-method "link").        
 ---------------
